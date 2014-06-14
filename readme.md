@@ -1,5 +1,9 @@
 # DeadCode
-The best theme for Vim and Sublime
+The best theme for Vim, Atom and Sublime Text
+
+Some examples:
+![Vim Example](vim/example_1.png)
+![Vim Example](vim/example_2.png)
 
 ## Sublime Text
 Not available yet.
@@ -14,6 +18,8 @@ Put `deadcode.vim` file in your `~/.vim/colors/` directory and add the following
     set number
     colorscheme deadcode
 
+
+OS X Hint: `vim /usr/share/vim/vimrc`
 
 ### About
 
