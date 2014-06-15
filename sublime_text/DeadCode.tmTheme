@@ -5,11 +5,11 @@
 	<key>gutterSettings</key>
 	<dict>
 		<key>background</key>
-		<string>#49483E</string>
+		<string>#272822</string>
 		<key>divider</key>
 		<string>#75715E</string>
 		<key>foreground</key>
-		<string>#75715E</string>
+		<string>#f8f8f9</string>
 	</dict>
 	<key>name</key>
 	<string>DeadCode</string>
@@ -21,7 +21,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#1c2d3b</string>
+				<string>#212421</string>
 				<key>caret</key>
 				<string>#F8F8F0</string>
 				<key>foreground</key>
@@ -53,7 +53,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f4e766</string>
+				<string>#f7ee93</string>
 			</dict>
 		</dict>
 		<dict>
