@@ -1,12 +1,12 @@
 # DeadCode
-The best theme for Vim, Atom and Sublime Text
-
-Some examples:
-![Vim Example](vim/example_1.png)
-![Vim Example](vim/example_2.png)
+The best theme for Vim, Atom and Sublime Text.
 
 ## Sublime Text
-Not available yet.
+![Sublime Example](sublime_text/example.png)
+
+1.	Open Sublime text and click on **Preferences -> Browse Packages**
+2.	Then put deadCodeTheme folder there
+3.	Now you should be able to select your custom themes by browsing **Preferences -> Color Scheme -> Colorsublime-Themes**
 
 ## Atom
 Not available yet.
