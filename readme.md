@@ -1,5 +1,6 @@
 # DeadCode
 The best theme for Vim, Atom and Sublime Text.
+![Dead Space](http://media.giphy.com/media/UFCK23CBzhNpC/giphy.gif)
 
 ## Sublime Text
 ![Sublime Example](sublime_text/example.png)
