@@ -1,7 +1,7 @@
-# DeadCode
+# Lucario
 > The best motherfucker flat theme for [Vim](http://www.vim.org/), [Atom](https://atom.io/), [Sublime Text](http://www.sublimetext.com/3), [Terminal.app](http://en.wikipedia.org/wiki/Terminal_%28OS_X%29) and [iTerm](http://www.iterm2.com/).
 
-![Logo](deadcode.png)
+![Logo](lucario.png)
 
 ## Summary
 * Editors
@@ -25,14 +25,14 @@
 
 1.	Go to **Atom -> Preferences...**
 2.	Then select the **Themes** tab
-3.	Type **DeadCode** in the search box
+3.	Type **Lucario** in the search box
 
 ## Vim
-Put `deadcode.vim` file in your `~/.vim/colors/` directory and add the following line to your vimrc file:
+Put `lucario.vim` file in your `~/.vim/colors/` directory and add the following line to your vimrc file:
 
     syntax enable
     set number
-    colorscheme deadcode
+    colorscheme lucario
 
 
 OS X Hint: `vim /usr/share/vim/vimrc`
