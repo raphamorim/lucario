@@ -1,5 +1,5 @@
 # DeadCode
-> The best motherfucker flat theme for [Vim](http://www.vim.org/), [Atom](https://atom.io/), [Sublime Text](http://www.sublimetext.com/3) and [iTerm](http://www.iterm2.com/).
+> The best motherfucker flat theme for [Vim](http://www.vim.org/), [Atom](https://atom.io/), [Sublime Text](http://www.sublimetext.com/3), [Terminal.app](http://en.wikipedia.org/wiki/Terminal_%28OS_X%29) and [iTerm](http://www.iterm2.com/).
 
 ![Logo](deadcode.png)
 
@@ -10,6 +10,7 @@
   * [Vim](#vim)
 * Terminal
   * [iTerm](#iterm)
+  * [Terminal.app](#iterm)
 * [About](#about)
 
 ## Sublime Text
@@ -40,6 +41,12 @@ OS X Hint: `vim /usr/share/vim/vimrc`
 
 Not available yet.
 
+## Terminal.app
+
+Not available yet.
+
 ## About
+
+**Credits**: Project inspired by [@zenorocha's](https://twitter.com/zenorocha) [Dracula Theme](https://github.com/zenorocha/dracula-theme).
 
 **License:** MIT ® [Raphael Amorim](https://github.com/raphamorim)
