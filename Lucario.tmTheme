@@ -1,3 +1,11 @@
+<!--
+Lucario Theme - The best motherfucker flat theme \o/
+
+@gitHub https://github.com/raphamorim/lucario
+
+@author Raphael Amorim <rapha850@gmail.com>
+-->
+
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
@@ -14,7 +22,7 @@
 	<key>name</key>
 	<string>Lucario</string>
 	<key>semanticClass</key>
-	<string>theme.dark.monokai</string>
+	<string>theme.lucario</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -31,7 +39,13 @@
 				<key>lineHighlight</key>
 				<string>#10171e</string>
 				<key>selection</key>
-				<string>#8bad67</string>
+				<string>#19242f</string>
+				<key>selectionBorder</key>
+				<string>#10171e</string>
+				<key>findHighlight</key>
+				<string>#3F9AB7</string>
+				<key>findHighlightForeground</key>
+				<string>#FFF</string>
 			</dict>
 		</dict>
 		<dict>
