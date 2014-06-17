@@ -1,5 +1,5 @@
 # DeadCode
-The best theme for Vim, Atom and Sublime Text.
+> The best motherfucker flat theme for [Vim](http://www.vim.org/), [Atom](https://atom.io/), [Sublime Text](http://www.sublimetext.com/3) and [iTerm](http://www.iterm2.com/).
 
 ![Logo](deadcode.png)
 
@@ -21,6 +21,7 @@ The best theme for Vim, Atom and Sublime Text.
 
 ## Atom
 ![Sublime Example](atom/example.png)
+
 1.	Go to **Atom -> Preferences...**
 2.	Then select the **Themes** tab
 3.	Type **DeadCode** in the search box
