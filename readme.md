@@ -17,7 +17,7 @@
 ![Sublime Example](images/sublime_text.png)
 
 1.	Open Sublime text and click on **Preferences -> Browse Packages**
-2.	Then put the sublime_text folder there
+2.	Then put the **Lucario.tmTheme** there
 3.	Now you should be able to select your custom themes by browsing **Preferences -> Color Scheme -> Colorsublime-Themes**
 
 ## Atom
