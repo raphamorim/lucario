@@ -17,7 +17,7 @@ Lucario Theme - The best motherfucker flat theme \o/
 		<key>divider</key>
 		<string>#75715E</string>
 		<key>foreground</key>
-		<string>#75715E</string>
+		<string>#49483E</string>
 	</dict>
 	<key>name</key>
 	<string>Lucario</string>
@@ -31,7 +31,7 @@ Lucario Theme - The best motherfucker flat theme \o/
 				<key>background</key>
 				<string>#2b3e50</string>
 				<key>caret</key>
-				<string>#F8F8F0</string>
+				<string>#F8F8F2</string>
 				<key>foreground</key>
 				<string>#F8F8F2</string>
 				<key>invisibles</key>
