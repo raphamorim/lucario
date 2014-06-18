@@ -1,12 +1,12 @@
 # Lucario
 > The best motherfucker flat theme for [Vim](http://www.vim.org/), [Atom](https://atom.io/), [Sublime Text](http://www.sublimetext.com/3), [Terminal.app](http://en.wikipedia.org/wiki/Terminal_%28OS_X%29) and [iTerm](http://www.iterm2.com/).
 
-![Logo](images/lucario.png)
+![Logo](https://raw.githubusercontent.com/raphamorim/lucario/master/images/lucario.png)
 
 ## Summary
 * Editors
-  * [Atom](#atom)
   * [Sublime Text](#sublime-text)
+  * [Atom](#atom)
   * [Vim](#vim)
 * Terminal
   * [iTerm](#iterm)
@@ -14,14 +14,14 @@
 * [About](#about)
 
 ## Sublime Text
-![Sublime Example](images/sublime_text.png)
+![Sublime Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/sublime_text.png)
 
 1.	Open Sublime text and click on **Preferences -> Browse Packages**
 2.	Then put the **Lucario.tmTheme** there
-3.	Now you should be able to select your custom themes by browsing **Preferences -> Color Scheme -> Colorsublime-Themes**
+3.	Now you should be able to select lucario theme by browsing **Preferences -> Color Scheme -> Lucario**
 
 ## Atom
-![Sublime Example](images/atom.png)
+![Atom Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/atom.png)
 
 1.	Go to **Atom -> Preferences...**
 2.	Then select the **Themes** tab
