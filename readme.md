@@ -1,5 +1,5 @@
 # Lucario
-> The best motherfucker flat theme for [Vim](http://www.vim.org/), [Atom](https://atom.io/), [Sublime Text](http://www.sublimetext.com/3), [Terminal.app](http://en.wikipedia.org/wiki/Terminal_%28OS_X%29) and [iTerm](http://www.iterm2.com/).
+> The best colorful flat theme for [Vim](http://www.vim.org/), [Atom](https://atom.io/), [Sublime Text](http://www.sublimetext.com/3), [Terminal.app](http://en.wikipedia.org/wiki/Terminal_%28OS_X%29) and [iTerm](http://www.iterm2.com/).
 
 ![Logo](https://raw.githubusercontent.com/raphamorim/lucario/master/images/lucario.png)
 

@@ -1,4 +1,4 @@
-" Lucario - The best motherfucker flat theme
+" Lucario - The best colorful flat theme ever 
 " Author: Raphael Amorim
 "
 " GitHub project: https://github.com/raphamorim/lucario
