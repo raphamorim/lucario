@@ -16,9 +16,19 @@
 ## Sublime Text
 ![Sublime Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/sublime_text.png)
 
-1.	Open Sublime text and click on **Preferences -> Browse Packages**
-2.	Then put the **Lucario.tmTheme** there
-3.	Now you should be able to select lucario theme by browsing **Preferences -> Color Scheme -> Lucario**
+### Install using Package Control
+
+If you are using [Package Control](https://sublime.wbond.net/), you can easily
+install Lucario via the **Package Control: Install Package**. The package theme as
+Lucario Color Scheme in the packages list. After this you should be able to select lucario color scheme
+by browsing **Preferences -> Color Scheme -> Lucario Color Scheme -> Lucario**
+
+### Manually install
+
+1.    Use `git clone git@github.com:raphamorim/lucario.git` and then take the **Lucario.tmTheme**
+2.	Open Sublime text and click on **Preferences -> Browse Packages**
+3.	Then put the **Lucario.tmTheme** there
+4.	Now you should be able to select lucario theme by browsing **Preferences -> Color Scheme -> Lucario**
 
 ## Atom
 ![Atom Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/atom.png)
