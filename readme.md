@@ -28,6 +28,8 @@
 3.	Type **Lucario** in the search box
 
 ## Vim
+![Vim Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/vim.png)
+
 Put `lucario.vim` file in your `~/.vim/colors/` directory and add the following line to your vimrc file:
 
     syntax enable
