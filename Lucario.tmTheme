@@ -1,13 +1,11 @@
-<!--
-Lucario Theme - The best colorful flat theme ever \o/
-
-@project https://github.com/raphamorim/lucario
-@author Raphael Amorim <rapha850@gmail.com>
--->
-
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
+<!-- Lucario Theme - The best colorful flat theme ever \o/
+
+	@project https://github.com/raphamorim/lucario
+	@author Raphael Amorim <rapha850@gmail.com>
+-->
 <dict>
 	<key>gutterSettings</key>
 	<dict>
@@ -36,7 +34,7 @@ Lucario Theme - The best colorful flat theme ever \o/
 				<key>invisibles</key>
 				<string>#61bbc8</string>
 				<key>lineHighlight</key>
-				<string>#10171e</string>
+				<string>#243443</string>
 				<key>selection</key>
 				<string>#19242f</string>
 				<key>selectionBorder</key>
