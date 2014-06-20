@@ -11,6 +11,8 @@
 * Terminal
   * [iTerm](#iterm)
   * [Terminal.app](#iterm)
+* [Color Palette](#color-palette)
+* [Contributing](#contributing)
 * [About](#about)
 
 ## Sublime Text
@@ -56,6 +58,27 @@ Not available yet.
 ## Terminal.app
 
 Not available yet.
+
+## Color Palette
+
+Palette      | Hex       | RGB           | HSL
+---          | ---       | ---           | ---
+Background   | `#2b3e50` | `43 62 80`    | `209.2° 30.1% 24.1%`
+Current Line | `#243443` | `36 52 67`    | `209° 30.1% 20.2%`
+Selection    | `#19242f` | `25 36 47`    | `210° 30.6% 14.1%`
+Foreground   | `#f8f8f2` | `248 248 242` | `60° 30% 96%`
+Comment      | `#5c98cd` | `92 152 205`  | `208.1°, 53.1%, 58.2%`
+
+## Contributing
+
+Why not use lucario color scheme in your favorite editor? does not exist?
+So what about creating one, is very simple \o/
+
+1.  Fork it!
+2.  Create your feature branch: `git checkout -b my-new-feature`
+3.  Commit your changes: `git commit -m 'Add some feature'``
+4.  Push to the branch: `git push origin my-new-feature`
+5.  Submit a pull request :)
 
 ## About
 
