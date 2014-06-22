@@ -7,6 +7,7 @@
 * Editors
   * [Sublime Text](#sublime-text)
   * [Atom](#atom)
+  * [TextMate](#textmate)
   * [Vim](#vim)
 * Terminal
   * [iTerm](#iterm)
@@ -39,6 +40,10 @@ by browsing **Preferences -> Color Scheme -> Lucario Color Scheme -> Lucario**
 2.	Then select the **Themes** tab
 3.	Type **Lucario** in the search box
 
+## TextMate
+
+Not available yet.
+
 ## Vim
 ![Vim Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/vim.png)
 
@@ -58,7 +63,7 @@ Not available yet.
 ## Terminal.app
 ![Vim Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/terminal.png)
 
-1.  Clone this repo or use .zip download option
+1.  Use `git clone git@github.com:raphamorim/lucario.git` (or use .zip download option)
 2.  Terminal > Settings Tab
 3.  Click "Gear" icon
 4.  Click Import and select the **terminal/Lucario.terminal** file
@@ -72,7 +77,8 @@ Background   | `#2b3e50` | `43 62 80`    | `209.2° 30.1% 24.1%`
 Current Line | `#243443` | `36 52 67`    | `209° 30.1% 20.2%`
 Selection    | `#19242f` | `25 36 47`    | `210° 30.6% 14.1%`
 Foreground   | `#f8f8f2` | `248 248 242` | `60° 30% 96%`
-Comment      | `#5c98cd` | `92 152 205`  | `208.1°, 53.1%, 58.2%`
+Comment      | `#5c98cd` | `92 152 205`  | `208.1° 53.1% 58.2%`
+String       | `#E6DB74` | `230 219 116` | `54.2° 69.5% 67.8%`
 
 ## Contributing
 
