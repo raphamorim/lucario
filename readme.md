@@ -56,8 +56,13 @@ OS X Hint: `vim /usr/share/vim/vimrc`
 Not available yet.
 
 ## Terminal.app
+![Vim Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/terminal.png)
 
-Not available yet.
+1.  Clone this repo or use .zip download option
+2.  Terminal > Settings Tab
+3.  Click "Gear" icon
+4.  Click Import and select the **terminal/Lucario.terminal** file
+5.  Click Default  
 
 ## Color Palette
 
