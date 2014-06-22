@@ -11,7 +11,7 @@
   * [Vim](#vim)
 * Terminal
   * [iTerm](#iterm)
-  * [Terminal.app](#iterm)
+  * [Terminal.app](#terminalapp)
 * [Color Palette](#color-palette)
 * [Contributing](#contributing)
 * [About](#about)
