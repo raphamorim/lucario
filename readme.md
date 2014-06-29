@@ -8,6 +8,7 @@
   * [Sublime Text](#sublime-text)
   * [Atom](#atom)
   * [TextMate](#textmate)
+  * [Brackets](#brackets)
   * [Vim](#vim)
 * Terminal
   * [iTerm](#iterm)
@@ -41,6 +42,10 @@ by browsing **Preferences -> Color Scheme -> Lucario Color Scheme -> Lucario**
 3.	Type **Lucario** in the search box
 
 ## TextMate
+
+Not available yet.
+
+## Brackets
 
 Not available yet.
 
