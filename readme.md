@@ -64,7 +64,7 @@ OS X Hint: `vim /usr/share/vim/vimrc`
 ## iTerm
 ![iTerm Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/iterm.png)
 
-1.  Use `git clone git@github.com:raphamorim/lucario.git` (or use .zip download option)
+1.  Use `git clone git@github.com:raphamorim/lucario.git` (or use [.zip download][zip] option)
 2.  iTerm > Settings Tab
 3.  Go to "Profiles > Colors" tab
 4.  Click "Load Presets..." to import and select the **iterm/Lucario.itermcolors** file
@@ -72,11 +72,13 @@ OS X Hint: `vim /usr/share/vim/vimrc`
 ## Terminal.app
 ![Terminal Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/terminal.png)
 
-1.  Use `git clone git@github.com:raphamorim/lucario.git` (or use .zip download option)
+1.  Use `git clone git@github.com:raphamorim/lucario.git` (or use [.zip download][zip] option)
 2.  Terminal > Settings Tab
 3.  Click "Gear" icon
 4.  Click Import and select the **terminal/Lucario.terminal** file
 5.  Click Default
+
+[zip]: https://github.com/raphamorim/lucario/archive/master.zip
 
 ## Color Palette
 
