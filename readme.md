@@ -72,7 +72,7 @@ Not available yet.
 2.  Terminal > Settings Tab
 3.  Click "Gear" icon
 4.  Click Import and select the **terminal/Lucario.terminal** file
-5.  Click Default  
+5.  Click Default
 
 ## Color Palette
 
@@ -100,4 +100,4 @@ So what about creating one, is very simple \o/
 
 **Credits**: Project inspired by [@zenorocha's](https://twitter.com/zenorocha) [Dracula Theme](https://github.com/zenorocha/dracula-theme).
 
-**License:** MIT ® [Raphael Amorim](https://github.com/raphamorim)
+**License**: MIT ® [Raphael Amorim](https://github.com/raphamorim).
