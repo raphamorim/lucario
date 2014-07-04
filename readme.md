@@ -5,10 +5,10 @@
 
 ## Summary
 * Editors
-  * [Sublime Text](#sublime-text)
   * [Atom](#atom)
-  * [TextMate](#textmate)
   * [Brackets](#brackets)
+  * [Sublime Text](#sublime-text)
+  * [TextMate](#textmate)
   * [Vim](#vim)
 * Terminal
   * [iTerm](#iterm)
@@ -16,6 +16,18 @@
 * [Color Palette](#color-palette)
 * [Contributing](#contributing)
 * [About](#about)
+
+
+## Atom
+![Atom Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/atom.png)
+
+1.	Go to **Atom -> Preferences...**
+2.	Then select the **Themes** tab
+3.	Type **Lucario** in the search box
+
+## Brackets
+
+Not available yet.
 
 ## Sublime Text
 ![Sublime Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/sublime_text.png)
@@ -34,18 +46,7 @@ by browsing **Preferences -> Color Scheme -> Lucario Color Scheme -> Lucario**
 3.	Then put the **Lucario.tmTheme** there
 4.	Now you should be able to select lucario theme by browsing **Preferences -> Color Scheme -> Lucario**
 
-## Atom
-![Atom Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/atom.png)
-
-1.	Go to **Atom -> Preferences...**
-2.	Then select the **Themes** tab
-3.	Type **Lucario** in the search box
-
 ## TextMate
-
-Not available yet.
-
-## Brackets
 
 Not available yet.
 
