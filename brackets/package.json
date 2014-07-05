@@ -1,0 +1,11 @@
+{
+  "name": "Lucario",
+  "theme": "syntax",
+  "version": "0.1.8",
+  "description": "The best colorful flat theme ever.",
+  "repository": "https://github.com/raphamorim/lucario",
+  "license": "MIT",
+  "engines": {
+    "brackets": ">=0.38.0"
+  }
+}
