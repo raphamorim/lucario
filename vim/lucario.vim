@@ -30,9 +30,9 @@ hi Directory ctermfg=177 ctermbg=NONE cterm=NONE guifg=#ca94ff guibg=NONE gui=NO
 hi Folded ctermfg=68 ctermbg=23 cterm=NONE guifg=#5c98cd guibg=#2b3e50 gui=NONE
 
 " Colors for tabs in cterm
-hi TabLineFill ctermfg=249
-hi TabLine ctermfg=17 ctermbg=249 cterm=NONE
-hi TabLineSel ctermfg=44 ctermbg=240 cterm=NONE
+hi TabLineFill ctermfg=12
+hi TabLine ctermfg=17 ctermbg=11 cterm=NONE
+hi TabLineSel ctermfg=8 ctermbg=14 cterm=NONE
 
 hi Normal ctermfg=231 ctermbg=0 cterm=NONE guifg=#f8f8f2 guibg=#2b3e50 gui=NONE
 hi Boolean ctermfg=177 ctermbg=NONE cterm=NONE guifg=#ca94ff guibg=NONE gui=NONE
