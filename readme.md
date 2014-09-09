@@ -25,6 +25,8 @@
 2.	Then select the **Themes** tab
 3.	Type **Lucario** in the search box
 
+See Lucario in [atom.io page](https://atom.io/themes/lucario)
+
 ## Brackets
 
 Not available yet.
@@ -38,6 +40,8 @@ If you are using [Package Control](https://sublime.wbond.net/), you can easily
 install Lucario via the **Package Control: Install Package**. The package theme as
 Lucario Color Scheme in the packages list. After this you should be able to select lucario color scheme
 by browsing **Preferences -> Color Scheme -> Lucario Color Scheme -> Lucario**
+
+See Lucario in [package control web page](https://sublime.wbond.net/packages/Lucario%20Color%20Scheme)
 
 ### Manually install
 
