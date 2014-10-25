@@ -1,0 +1,80 @@
+xterm*charClass: 33:48,35:48,37:48,43:48,45-47:48,64:48,95:48,126:48
+xterm*termName: xterm-color
+xterm*eightBitInput: false
+
+!BLK Cursor
+#define _color0        #4f4f4f
+#define _color8        #4f4f4f
+!RED Tag
+#define _color1        #ff6c60
+#define _color9        #fa6960
+!GRN SpecialKey
+#define _color2        #fbb036
+#define _color10       #fbb036
+!YEL Keyword
+#define _color3        #ffffb6
+#define _color11       #feffb9
+!BLU Number
+#define _color4        #5796ed
+#define _color12       #6b9fed
+!MAG Precondit
+#define _color5        #ff73fd
+#define _color13       #fc6ffa
+!CYN Float
+#define _color6        #8ee478
+#define _color14       #8ee478
+!WHT Search
+#define _color7        #eeeeee
+#define _color15       #ffffff
+!FMT Include, StatusLine, ErrorMsg
+#define _colorBD       #ffffff
+#define _colorUL       #ffffff
+#define _colorIT       #ffffff
+!TXT Normal, Normal, Cursor
+#define _foreground    #f8f8f2
+#define _background    #2b3e50
+#define _cursorColor   #e3bf21
+URxvt*color0         : _color0
+URxvt*color1         : _color1
+URxvt*color2         : _color2
+URxvt*color3         : _color3
+URxvt*color4         : _color4
+URxvt*color5         : _color5
+URxvt*color6         : _color6
+URxvt*color7         : _color7
+URxvt*color8         : _color8
+URxvt*color9         : _color9
+URxvt*color10        : _color10
+URxvt*color11        : _color11
+URxvt*color12        : _color12
+URxvt*color13        : _color13
+URxvt*color14        : _color14
+URxvt*color15        : _color15
+URxvt*colorBD        : _colorBD
+URxvt*colorIT        : _colorIT
+URxvt*colorUL        : _colorUL
+URxvt*foreground     : _foreground
+URxvt*background     : _background
+URxvt*cursorColor    : _cursorColor
+XTerm*color0         : _color0
+XTerm*color1         : _color1
+XTerm*color2         : _color2
+XTerm*color3         : _color3
+XTerm*color4         : _color4
+XTerm*color5         : _color5
+XTerm*color6         : _color6
+XTerm*color7         : _color7
+XTerm*color8         : _color8
+XTerm*color9         : _color9
+XTerm*color10        : _color10
+XTerm*color11        : _color11
+XTerm*color12        : _color12
+XTerm*color13        : _color13
+XTerm*color14        : _color14
+XTerm*color15        : _color15
+XTerm*colorBD        : _colorBD
+XTerm*colorIT        : _colorIT
+XTerm*colorUL        : _colorUL
+XTerm*foreground     : _foreground
+XTerm*background     : _background
+XTerm*cursorColor    : _cursorColor
