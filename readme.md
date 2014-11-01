@@ -13,6 +13,7 @@
 * Terminal
   * [iTerm](#iterm)
   * [Terminal.app](#terminalapp)
+  * [xterm] (#xterm)
 * [Color Palette](#color-palette)
 * [Contributing](#contributing)
 * [About](#about)
@@ -84,6 +85,13 @@ OS X Hint: `vim /usr/share/vim/vimrc`
 5.  Click Default
 
 [zip]: https://github.com/raphamorim/lucario/archive/master.zip
+
+## xterm
+![xterm Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/xterm.png)
+
+1.  Use `git clone git@github.com:raphamorim/lucario.git` (or use [.zip download][zip] option)
+2.  Copy the **xterm/.Xresources** file to your home directory
+3.  Add `xrdb -merge ~/.Xresources` to your init scripts (e.g. `.xinitrc`)
 
 ## Color Palette
 
