@@ -13,7 +13,8 @@
 * Terminal
   * [iTerm](#iterm)
   * [Terminal.app](#terminalapp)
-  * [XTerm] (#xterm)
+  * [Xcode](#xcode)
+  * [XTerm](#xterm)
 * [Color Palette](#color-palette)
 * [Contributing](#contributing)
 * [About](#about)
@@ -85,6 +86,19 @@ OS X Hint: `vim /usr/share/vim/vimrc`
 5.  Click Default
 
 [zip]: https://github.com/raphamorim/lucario/archive/master.zip
+
+## Xcode
+![xcode Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/xcode.png)
+
+1.  Use `git clone git@github.com:raphamorim/lucario.git` (or use [.zip download][zip] option)
+2.  Copy the **xcode/Lucario.dvtcolortheme** file to your xcode FontAndColorThemes directory
+
+```sh
+$ cp Lucario.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
+```
+
+3. Reopen your Xcode, go in `Xcode>preferences`
+4. Open `Fonts & Colors` tab and select lucario as your theme
 
 ## XTerm
 ![xterm Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/xterm.png)
