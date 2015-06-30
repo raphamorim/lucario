@@ -1,0 +1,96 @@
+@import "colors";
+.comment {
+  color: @comment;
+}
+
+.string {
+  color: @string;
+}
+
+.constant {
+  color: @number;
+}
+
+.variable {
+  color: @orange;
+}
+
+.variable.other.readwrite.instance {
+  color: @instance;
+}
+
+.constant.character.escaped, .constant.character.escape, .string .source, .string .source.ruby {
+  color: @number;
+}
+
+.keyword, .storage{
+  color: @entity;
+}
+
+.storage.type {
+  font-style: italic;
+  color: @storage;
+}
+
+.entity.name.class {
+  text-decoration: underline;
+  color: @soft-green;
+}
+
+.entity.other.inherited-class {
+  font-style: italic;
+  text-decoration: underline;
+  color: @soft-green;
+}
+
+.entity.name.function {
+  color: @soft-green;
+}
+
+.variable.parameter {
+  font-style: italic;
+  color: @instance;
+}
+
+.entity.name.tag {
+  color: @entity;
+  font-style: italic;;
+}
+
+.entity.other.attribute-name, .markup.heading  {
+  color: @soft-green;
+}
+
+.support.function {
+  color: @function;
+}
+
+.support.constant {
+  color: @constant;
+}
+
+.support.type, .support.class {
+  font-style: italic;
+  color: @constant;
+}
+
+.support.other.variable, .variable.unordered, .variable.ordered  {
+  color: @instance;
+}
+
+.invalid, .invalid.deprecated {
+  color: @foreground;
+  background-color: @selection;
+}
+
+.markup.bold, .markup.italic {
+  color: @entity;
+}
+
+.markup.raw {
+  color: @storage;
+}
+
+.punctuation.definition.tag.xml.plist, .constant.name.xml {
+  color: @foreground;
+}
