@@ -35,13 +35,9 @@ atom-text-editor,
       background-color: darken(@background, 2.3%);
       color: @border;
       -webkit-font-smoothing: antialised;
-      &.git-line-removed, &.git-line-modified, &.git-line-added{
-        border-left-width: 5px;
-        padding-left: calc(0.5em + 5px);
-      }
 
       &.git-line-added{
-        border-left: 2px solid green;
+        border-left: 2px solid;
       }
 
       &.git-line-modified{
@@ -50,6 +46,7 @@ atom-text-editor,
 
       &.git-line-removed{
         border-left: 2px solid @orange;
+        padding-left: calc(.5em - 2px);
       }
     }
   }
