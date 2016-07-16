@@ -24,8 +24,9 @@
 ![Atom Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/atom.png)
 
 1.	Go to **Atom -> Preferences...**
-2.	Then select the **Themes** tab
-3.	Type **Lucario** in the search box
+2.	Then select the **Install** tab
+3.	Switch to the **Themes** 
+4.	Type **Lucario** in the search box
 
 See Lucario in [atom.io page](https://atom.io/themes/lucario)
 
