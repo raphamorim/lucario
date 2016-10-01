@@ -7,6 +7,7 @@
 * Editors
   * [Atom](#atom)
   * [Brackets](#brackets)
+  * [Jetbrains Editors](#jetbrains-editors)
   * [Sublime Text](#sublime-text)
   * [TextMate](#textmate)
   * [Vim](#vim)
@@ -25,7 +26,7 @@
 
 1.	Go to **Atom -> Preferences...**
 2.	Then select the **Install** tab
-3.	Switch to the **Themes** 
+3.	Switch to the **Themes**
 4.	Type **Lucario** in the search box
 
 See Lucario in [atom.io page](https://atom.io/themes/lucario)
@@ -33,6 +34,17 @@ See Lucario in [atom.io page](https://atom.io/themes/lucario)
 ## Brackets
 
 Not available yet.
+
+## Jetbrains Editors
+
+(Available for [IntellijIDEA](https://www.jetbrains.com/idea/), [Pycharm](https://www.jetbrains.com/pycharm/), [Webstorm](https://www.jetbrains.com/webstorm/), [PHPStorm](https://www.jetbrains.com/phpstorm/) and [RubyMine](https://www.jetbrains.com/ruby/))
+
+![Jetbrains Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/jetbrains.png)
+
+1.    Use `git clone git@github.com:raphamorim/lucario.git` and then take the **Intellij/settings.jar**
+2.  On the main menu, choose File | Import Settings.
+3.  In the **Import File Location** dialog box that opens **Intellij/settings.jar** file.
+4.  In the Select Components to Import dialog box that opens specify only **Editor Colors** as settings to be imported, and click OK.
 
 ## Sublime Text
 ![Sublime Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/sublime_text.png)
