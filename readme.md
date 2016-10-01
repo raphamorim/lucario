@@ -41,9 +41,9 @@ Not available yet.
 
 ![Jetbrains Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/jetbrains.png)
 
-1.    Use `git clone git@github.com:raphamorim/lucario.git` and then take the **Intellij/settings.jar**
+1.  You can pdownload here](http://color-themes.com/?view=theme&id=57efd88e849f3a1800dc1bdf) or use `git clone git@github.com:raphamorim/lucario.git` and then take the **Intellij/Lucario.jar**
 2.  On the main menu, choose File | Import Settings.
-3.  In the **Import File Location** dialog box that opens **Intellij/settings.jar** file.
+3.  In the **Import File Location** dialog box that opens **Intellij/Lucario.jar** file.
 4.  In the Select Components to Import dialog box that opens specify only **Editor Colors** as settings to be imported, and click OK.
 
 ## Sublime Text
