@@ -52,15 +52,15 @@ Not available yet.
 ### Install using Package Control
 
 If you are using [Package Control](https://sublime.wbond.net/), you can easily
-install Lucario via the **Package Control: Install Package**. The package theme as
-Lucario Color Scheme in the packages list. After this you should be able to select lucario color scheme
-by browsing **Preferences -> Color Scheme -> Lucario Color Scheme -> Lucario**
+install Lucario via **Package Control: Install Package**. The package theme is named as
+"Lucario Color Scheme" in the packages list. You should be able to select "Lucario Color Scheme"
+by browsing **Preferences -> Color Scheme -> Lucario Color Scheme -> Lucario**.
 
 See Lucario in [package control web page](https://sublime.wbond.net/packages/Lucario%20Color%20Scheme)
 
 ### Manually install
 
-1.    Use `git clone git@github.com:raphamorim/lucario.git` and then take the **Lucario.tmTheme**
+1. Use `git clone git@github.com:raphamorim/lucario.git` and then take the **Lucario.tmTheme**
 2.	Open Sublime text and click on **Preferences -> Browse Packages**
 3.	Then put the **Lucario.tmTheme** there
 4.	Now you should be able to select lucario theme by browsing **Preferences -> Color Scheme -> Lucario**
@@ -134,8 +134,8 @@ String       | `#E6DB74` | `230 219 116` | `54.2° 69.5% 67.8%`
 
 ## Contributing
 
-Why not use lucario color scheme in your favorite editor? does not exist?
-So what about creating one, is very simple \o/
+Want to use Lucario Color Scheme for your favorite editor, but it doesn't exist?
+So how about creating one? It's very simple! \o/
 
 1.  Fork it!
 2.  Create your feature branch: `git checkout -b my-new-feature`
