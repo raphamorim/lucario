@@ -1,96 +1,96 @@
 @import "colors";
-.comment {
+.syntax--comment {
   color: @comment;
 }
 
-.string {
+.syntax--string {
   color: @string;
 }
 
-.constant {
+.syntax--constant {
   color: @number;
 }
 
-.variable {
+.syntax--variable {
   color: @orange;
 }
 
-.variable.other.readwrite.instance {
+.syntax--variable.syntax--other.syntax--readwrite.syntax--instance {
   color: @instance;
 }
 
-.constant.character.escaped, .constant.character.escape, .string .source, .string .source.ruby {
+.syntax--constant.syntax--character.syntax--escaped, .syntax--constant.syntax--character.syntax--escape, .syntax--string .syntax--source, .syntax--string .syntax--source.syntax--ruby {
   color: @number;
 }
 
-.keyword, .storage{
+.syntax--keyword, .syntax--storage{
   color: @entity;
 }
 
-.storage.type {
+.syntax--storage.syntax--type {
   font-style: italic;
   color: @storage;
 }
 
-.entity.name.class {
+.syntax--entity.syntax--name.syntax--class {
   text-decoration: underline;
   color: @soft-green;
 }
 
-.entity.other.inherited-class {
+.syntax--entity.syntax--other.syntax--inherited-class {
   font-style: italic;
   text-decoration: underline;
   color: @soft-green;
 }
 
-.entity.name.function {
+.syntax--entity.syntax--name.syntax--function {
   color: @soft-green;
 }
 
-.variable.parameter {
+.syntax--variable.syntax--parameter {
   font-style: italic;
   color: @instance;
 }
 
-.entity.name.tag {
+.syntax--entity.syntax--name.syntax--tag {
   color: @entity;
   font-style: italic;;
 }
 
-.entity.other.attribute-name, .markup.heading  {
+.syntax--entity.syntax--other.syntax--attribute-name, .syntax--markup.syntax--heading  {
   color: @soft-green;
 }
 
-.support.function {
+.syntax--support.syntax--function {
   color: @function;
 }
 
-.support.constant {
+.syntax--support.syntax--constant {
   color: @constant;
 }
 
-.support.type, .support.class {
+.syntax--support.syntax--type, .syntax--support.syntax--class {
   font-style: italic;
   color: @constant;
 }
 
-.support.other.variable, .variable.unordered, .variable.ordered  {
+.syntax--support.syntax--other.syntax--variable, .syntax--variable.syntax--unordered, .syntax--variable.syntax--ordered  {
   color: @instance;
 }
 
-.invalid, .invalid.deprecated {
+.syntax--invalid, .syntax--invalid.syntax--deprecated {
   color: @foreground;
   background-color: @selection;
 }
 
-.markup.bold, .markup.italic {
+.syntax--markup.syntax--bold, .syntax--markup.syntax--italic {
   color: @entity;
 }
 
-.markup.raw {
+.syntax--markup.syntax--raw {
   color: @storage;
 }
 
-.punctuation.definition.tag.xml.plist, .constant.name.xml {
+.syntax--punctuation.syntax--definition.syntax--tag.syntax--xml.syntax--plist, .syntax--constant.syntax--name.syntax--xml {
   color: @foreground;
 }
