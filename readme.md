@@ -41,7 +41,7 @@ Not available yet.
 
 ![Jetbrains Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/jetbrains.png)
 
-1.  You can download here](http://color-themes.com/?view=theme&id=57efd88e849f3a1800dc1bdf) or use `git clone git@github.com:raphamorim/lucario.git` and then take the **Intellij/Lucario.jar**
+1.  You can download here](http://color-themes.com/?view=theme&id=57efd88e849f3a1800dc1bdf) or use `git clone https://github.com/raphamorim/lucario.git` and then take the **Intellij/Lucario.jar**
 2.  On the main menu, choose File | Import Settings.
 3.  In the **Import File Location** dialog box that opens **Intellij/Lucario.jar** file.
 4.  In the Select Components to Import dialog box that opens specify only **Editor Colors** as settings to be imported, and click OK.
@@ -60,7 +60,7 @@ See Lucario in [package control web page](https://sublime.wbond.net/packages/Luc
 
 ### Manually install
 
-1. Use `git clone git@github.com:raphamorim/lucario.git` and then take the **Lucario.tmTheme**
+1. Use `git clone https://github.com/raphamorim/lucario.git` and then take the **Lucario.tmTheme**
 2.	Open Sublime text and click on **Preferences -> Browse Packages**
 3.	Then put the **Lucario.tmTheme** there
 4.	Now you should be able to select lucario theme by browsing **Preferences -> Color Scheme -> Lucario**
@@ -84,7 +84,7 @@ OS X Hint: `vim /usr/share/vim/vimrc`
 ## Xcode
 ![xcode Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/xcode.png)
 
-1.  Use `git clone git@github.com:raphamorim/lucario.git` (or use [.zip download][zip] option)
+1.  Use `git clone https://github.com/raphamorim/lucario.git` (or use [.zip download][zip] option)
 2.  Copy the `xcode/Lucario.dvtcolortheme` file to your **Xcode FontAndColorThemes** directory
 3. Reopen your Xcode and click on **Xcode -> preferences**
 4. Open **Fonts & Colors** tab and select lucario as your theme
@@ -98,7 +98,7 @@ $ cp Lucario.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 ## iTerm
 ![iTerm Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/iterm.png)
 
-1.  Use `git clone git@github.com:raphamorim/lucario.git` (or use [.zip download][zip] option)
+1.  Use `git clone https://github.com/raphamorim/lucario.git` (or use [.zip download][zip] option)
 2.  iTerm > Settings Tab
 3.  Go to "Profiles > Colors" tab
 4.  Click "Load Presets..." to import and select the **iterm/Lucario.itermcolors** file
@@ -106,7 +106,7 @@ $ cp Lucario.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 ## Terminal.app
 ![Terminal Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/terminal.png)
 
-1.  Use `git clone git@github.com:raphamorim/lucario.git` (or use [.zip download][zip] option)
+1.  Use `git clone https://github.com/raphamorim/lucario.git` (or use [.zip download][zip] option)
 2.  Terminal > Settings Tab
 3.  Click "Gear" icon
 4.  Click Import and select the **terminal/Lucario.terminal** file
@@ -117,7 +117,7 @@ $ cp Lucario.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 ## XTerm
 ![xterm Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/xterm.png)
 
-1.  Use `git clone git@github.com:raphamorim/lucario.git` (or use [.zip download][zip] option)
+1.  Use `git clone https://github.com/raphamorim/lucario.git` (or use [.zip download][zip] option)
 2.  Copy the **xterm/.Xresources** file to your home directory
 3.  (optional for some cases) Add `xrdb -merge ~/.Xresources` to your init scripts (e.g. `.xinitrc`)
 
