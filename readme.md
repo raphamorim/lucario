@@ -16,6 +16,8 @@
   * [iTerm](#iterm)
   * [Terminal.app](#terminalapp)
   * [XTerm](#xterm)
+* Other
+  * [CSS](#css)
 * [Color Palette](#color-palette)
 * [Contributing](#contributing)
 * [About](#about)
@@ -120,6 +122,14 @@ $ cp Lucario.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 1.  Use `git clone https://github.com/raphamorim/lucario.git` (or use [.zip download][zip] option)
 2.  Copy the **xterm/.Xresources** file to your home directory
 3.  (optional for some cases) Add `xrdb -merge ~/.Xresources` to your init scripts (e.g. `.xinitrc`)
+
+## CSS
+![xterm Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/css.png)
+
+1.  Use `git clone https://github.com/raphamorim/lucario.git` (or use [.zip download][zip] option)
+2.  Copy the **CSS/lucario.css** file to your web directory
+3.  Include the stylesheet in your HTML by including the line ``<link rel="stylesheet" type="text/css" href="lucario.css">``
+4.  The default stylesheet with highlight code blocks rendered with the class **highlight**.
 
 ## Color Palette
 
