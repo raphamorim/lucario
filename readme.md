@@ -124,7 +124,7 @@ $ cp Lucario.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 3.  (optional for some cases) Add `xrdb -merge ~/.Xresources` to your init scripts (e.g. `.xinitrc`)
 
 ## CSS
-![xterm Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/css.png)
+![CSS Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/css.png)
 
 1.  Use `git clone https://github.com/raphamorim/lucario.git` (or use [.zip download][zip] option)
 2.  Copy the **CSS/lucario.css** file to your web directory
