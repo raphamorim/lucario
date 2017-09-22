@@ -3,36 +3,30 @@
     Lucario Colorscheme
     ~~~~~~~~~~~~~~~~~~~
 
-    Converted by Vim Colorscheme Converter
+		Simon Duff <simon.duff@gmail.com>
+
 """
 from pygments.style import Style
-from pygments.token import Token, Comment, Name, Keyword, Generic, Number, Operator, String
+from pygments.token import Token, Comment, Name, Keyword, Generic, Number, Operator, String, Error, Literal, Other, Punctuation, Text
 
 class LucarioStyle(Style):
-
+    default_style = "#f8f8f2"
     background_color = '#2b3e50'
+
     styles = {
-        Token:              'noinherit #f8f8f2 bg:#2b3e50',
-        Comment.Preproc:    'noinherit #ff6541',
-        Name.Entity:        'noinherit #f8f8f2',
-        Generic.Heading:    '#f8f8f2 bold',
-        Generic.Emph:       'underline',
-        Name.Tag:           'noinherit #ff6541',
-        Name.Function:      'noinherit #72c05d',
-        Generic.Traceback:  'noinherit #f8f8f0 bg:#f92672',
-        Name.Variable:      'noinherit #66d9ef italic',
-        Generic.Subheading: '#f8f8f2 bold',
-        Generic.Output:     'noinherit #61bbc8 bg:#354758',
-        Keyword:            'noinherit #ff6541',
-        Generic.Inserted:   '#f8f8f2 bg:#478815 bold',
-        Number.Float:       'noinherit #ca94ff',
-        Keyword.Type:       'noinherit',
-        Name.Constant:      'noinherit',
-        String:             'noinherit #e6db74',
-        Comment:            'noinherit #5c98cd',
-        Name.Attribute:     'noinherit #72c05d',
-        Number:             'noinherit #ca94ff',
-        Name.Label:         'noinherit #e6db74',
-        Generic.Deleted:    'noinherit #8c0c10',
-        Operator.Word:      'noinherit #ff6541',
-    }
+			Text: '#f8f8f2',
+			Error: 'bold #ffb3b5',
+			Keyword: '#ffb3b5',
+			Literal: '#e6b5ff',
+			Name: '#f8f8f2',
+			Name.Tag: '#ffb3b5',
+			Operator: '#ffb3b5',
+			Punctuation: '#f8f8f2',
+			Comment: '#7ce5e6',
+			Keyword.Namespace: '#ffb3b5',
+			Literal.String: '#d7d787',
+			Name.Class: '#b3d6b3',
+			Name.Function: '#b3d6b3',
+			Name.Namespace: '#f8f8f2',
+			Name.Builtin.Pseudo: '#84dffe'
+		}
