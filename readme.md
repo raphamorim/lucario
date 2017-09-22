@@ -16,6 +16,8 @@
   * [iTerm](#iterm)
   * [Terminal.app](#terminalapp)
   * [XTerm](#xterm)
+* Other
+  * [Pygments](#pygments) 
 * [Color Palette](#color-palette)
 * [Contributing](#contributing)
 * [About](#about)
@@ -120,6 +122,13 @@ $ cp Lucario.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 1.  Use `git clone https://github.com/raphamorim/lucario.git` (or use [.zip download][zip] option)
 2.  Copy the **xterm/.Xresources** file to your home directory
 3.  (optional for some cases) Add `xrdb -merge ~/.Xresources` to your init scripts (e.g. `.xinitrc`)
+
+## Pygments
+
+1.  Use `git clone https://github.com/raphamorim/lucario.git` (or use [.zip download][zip] option)
+2.  Copy the **pygments/lucario.py** file to pygments style directory, usually **/usr/local/lib/python/*X*.*X*/site-packages/pygments/styles/**
+3.  Run the following to use the formatter on the command line, `pygmentize -S luciario`
+
 
 ## Color Palette
 
