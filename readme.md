@@ -127,7 +127,7 @@ $ cp Lucario.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 
 1.  Use `git clone https://github.com/raphamorim/lucario.git` (or use [.zip download][zip] option)
 2.  Copy the **pygments/lucario.py** file to pygments style directory, usually **/usr/local/lib/python/*X*.*X*/site-packages/pygments/styles/**
-3.  Run the following to use the formatter on the command line, `pygmentize -S luciario`
+3.  Run the following to use the formatter on the command line, `pygmentize -S lucario`
 
 
 ## Color Palette
