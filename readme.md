@@ -1,5 +1,5 @@
 # Lucario
-> The best colorful flat theme for [Vim](http://www.vim.org/), [Atom](https://atom.io/), [Sublime Text](http://www.sublimetext.com/3), [Xcode](https://developer.apple.com/xcode/), [Terminal.app](http://en.wikipedia.org/wiki/Terminal_%28OS_X%29), [XTerm](https://en.wikipedia.org/wiki/Xterm) and [iTerm](http://www.iterm2.com/).
+> The best colorful flat theme for [Vim](http://www.vim.org/), [Atom](https://atom.io/),  [VSCode](https://code.visualstudio.com/), [Sublime Text](http://www.sublimetext.com/3), [Xcode](https://developer.apple.com/xcode/), [Terminal.app](http://en.wikipedia.org/wiki/Terminal_%28OS_X%29), [XTerm](https://en.wikipedia.org/wiki/Xterm) and [iTerm](http://www.iterm2.com/).
 
 ![Logo](https://raw.githubusercontent.com/raphamorim/lucario/master/images/lucario.png)
 
@@ -32,6 +32,17 @@
 4.	Type **Lucario** in the search box
 
 See Lucario in [atom.io page](https://atom.io/themes/lucario)
+
+## VS Code
+![VS Code Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/vscode.png)
+1. Go to View -> Command Palette or press Ctrl+Shift+P
+2. Then enter Install Extension
+2. Write lucario
+3. Select it or press Enter to install
+### Activating theme
+Run Visual Studio Code. The Lucario Theme will be available from File -> Preferences -> Color Theme dropdown menu.
+Issue for VS Code is [here](https://github.com/Ikuyadeu/Lucario-vscode/issues)
+
 
 ## Brackets
 
