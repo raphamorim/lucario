@@ -11,6 +11,7 @@
   * [Sublime Text](#sublime-text)
   * [TextMate](#textmate)
   * [Vim](#vim)
+  * [Visual Studio Code](#vs-code)
   * [Xcode](#xcode)
 * Terminal
   * [iTerm](#iterm)
