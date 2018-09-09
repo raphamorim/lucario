@@ -1,0 +1,22 @@
+#Lucario theme for termux
+#Color scheme by https://github.com/raphamorim/lucario
+
+color0=#4f4f4f
+color1=#ff6c60
+color2=#fbb036
+color3=#ffffb6
+color4=#5796ed
+color5=#ff73fd
+color6=#8ee478
+color7=#eeeeee
+color8=#4f4f4f
+color9=#fa6960
+color10=#fbb036
+color11=#feffb9
+color12=#6b9fed
+color13=#fc6ffa
+color14=#8ee478
+color15=#ffffff
+background=#2b3e50
+foreground=#f8f8f2
+cursor=#e3bf21

@@ -143,6 +143,13 @@ $ cp Lucario.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 3.  Include the stylesheet in your HTML by including the line ``<link rel="stylesheet" type="text/css" href="lucario.css">``
 4.  The default stylesheet with highlight code blocks rendered with the class **highlight**.
 
+## Termux
+![CSS Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/termux.png)
+
+1. Make sure that **Termux:Styling** add-on is installed.
+2. Copy the `lucario.colors` file to`~/.termux/colors`.
+2. Run the `colors.sh` script to apply.
+
 ## Color Palette
 
 Palette      | Hex       | RGB           | HSL
