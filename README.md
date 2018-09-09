@@ -144,7 +144,7 @@ $ cp Lucario.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 4.  The default stylesheet with highlight code blocks rendered with the class **highlight**.
 
 ## Termux
-![CSS Example](https://raw.githubusercontent.com/KdB13/lucario/lucario-termux/images/termux.png)
+![Termux Example](https://raw.githubusercontent.com/KdB13/lucario/lucario-termux/images/termux.png)
 
 1. Make sure that **Termux:Styling** add-on is installed.
 2. Copy the `lucario.colors` file to`~/.termux/colors`.
