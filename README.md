@@ -22,14 +22,14 @@
 
 ## Color Palette
 
-Palette      | Hex       | RGB           | HSL
----          | ---       | ---           | ---
-Background   | `#2b3e50` | `43 62 80`    | `209.2° 30.1% 24.1%`
-Current Line | `#243443` | `36 52 67`    | `209° 30.1% 20.2%`
-Selection    | `#19242f` | `25 36 47`    | `210° 30.6% 14.1%`
-Foreground   | `#f8f8f2` | `248 248 242` | `60° 30% 96%`
-Comment      | `#5c98cd` | `92 152 205`  | `208.1° 53.1% 58.2%`
-String       | `#E6DB74` | `230 219 116` | `54.2° 69.5% 67.8%`
+Palette      | Hex       | RGB           | HSL                  | Sample
+---          | ---       | ---           | ---                  | ---
+Background   | `#2b3e50` | `43 62 80`    | `209.2° 30.1% 24.1%` | ![](images/2b3e50.png)
+Current Line | `#243443` | `36 52 67`    | `209° 30.1% 20.2%`   | ![](images/243443.png)
+Selection    | `#19242f` | `25 36 47`    | `210° 30.6% 14.1%`   | ![](images/19242f.png)
+Foreground   | `#f8f8f2` | `248 248 242` | `60° 30% 96%`        | ![](images/f8f8f2.png)
+Comment      | `#5c98cd` | `92 152 205`  | `208.1° 53.1% 58.2%` | ![](images/5c98cd.png)
+String       | `#e6db74` | `230 219 116` | `54.2° 69.5% 67.8%`  | ![](images/e6db74.png)
 
 
 ## Editors
