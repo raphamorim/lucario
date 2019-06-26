@@ -14,6 +14,7 @@
   * [iTerm](#iterm)
   * [Terminal.app](#terminalapp)
   * [Termux](#termux)
+  * [Xfce Terminal](#xfce-terminal)
   * [XTerm](#xterm)
 * Others
   * [CSS](#css)
@@ -137,6 +138,12 @@ $ mv Lucario.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 2.  Download **[termux/lucario.colors](https://github.com/raphamorim/lucario/raw/master/termux/lucario.xolors)**
 3. Move the `lucario.colors` file to`~/.termux/colors`.
 2. Run the `colors.sh` script to apply.
+
+## Xfce Terminal
+![xfce4-terminal Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/xfce4-terminal.png)
+
+1.  Save [**xfce4-terminal/lucario.theme**](https://raw.githubusercontent.com/raphamorim/lucario/master/xfce4-terminal/lucario.theme) to `$HOME/.local/share/xfce4/terminal/colorschemes/` (You might need to create this folder first.)
+2.  In Xfce Terminal open **Preferences**, go to the **Colors** tab and under **Presets** select **Lucario**.
 
 ### [XTerm](https://invisible-island.net/xterm/xterm.html)
 ![xterm Example](/images/xterm.png)
