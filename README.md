@@ -1,154 +1,24 @@
-# Lucario
-> The best colorful flat theme for [Vim](http://www.vim.org/), [Atom](https://atom.io/),  [VSCode](https://code.visualstudio.com/), [Sublime Text](http://www.sublimetext.com/3), [Xcode](https://developer.apple.com/xcode/), [Terminal.app](http://en.wikipedia.org/wiki/Terminal_%28OS_X%29), [XTerm](https://en.wikipedia.org/wiki/Xterm) and [iTerm](http://www.iterm2.com/).
+![Logo](images/lucario.png)
+> The best colorful flat theme for your favorite editor and terminal emulator.
 
-![Logo](https://raw.githubusercontent.com/raphamorim/lucario/master/images/lucario.png)
-
-## Summary
+## Contents
+* [Color Palette](#color-palette)
 * Editors
   * [Atom](#atom)
-  * [Brackets](#brackets)
   * [Jetbrains Editors](#jetbrains-editors)
   * [Sublime Text](#sublime-text)
-  * [TextMate](#textmate)
   * [Vim](#vim)
-  * [Visual Studio Code](#vs-code)
+  * [Visual Studio Code](#visual-studio-code)
   * [Xcode](#xcode)
-* Terminal
+* Terminal Emulators
   * [iTerm](#iterm)
   * [Terminal.app](#terminalapp)
+  * [Termux](#termux)
   * [XTerm](#xterm)
-* Other
+* Others
   * [CSS](#css)
-* [Color Palette](#color-palette)
 * [Contributing](#contributing)
 * [About](#about)
-
-
-## Atom
-![Atom Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/atom.png)
-
-1.	Go to **Atom -> Preferences...**
-2.	Then select the **Install** tab
-3.	Switch to the **Themes**
-4.	Type **Lucario** in the search box
-
-See Lucario in [atom.io page](https://atom.io/themes/lucario)
-
-## VS Code
-![VS Code Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/vscode.png)
-1. Go to View -> Command Palette or press Ctrl+Shift+P
-2. Then enter Install Extension
-2. Write lucario
-3. Select it or press Enter to install
-### Activating theme
-Run Visual Studio Code. The Lucario Theme will be available from File -> Preferences -> Color Theme dropdown menu.
-Issue for VS Code is [here](https://github.com/Ikuyadeu/Lucario-vscode/issues)
-
-
-## Brackets
-
-Not available yet.
-
-## Jetbrains Editors
-
-(Available for [IntellijIDEA](https://www.jetbrains.com/idea/), [Pycharm](https://www.jetbrains.com/pycharm/), [Webstorm](https://www.jetbrains.com/webstorm/), [PHPStorm](https://www.jetbrains.com/phpstorm/) and [RubyMine](https://www.jetbrains.com/ruby/))
-
-![Jetbrains Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/jetbrains.png)
-
-1.  You can download here](http://color-themes.com/?view=theme&id=57efd88e849f3a1800dc1bdf) or use `git clone https://github.com/raphamorim/lucario.git` and then take the **Intellij/Lucario.jar**
-2.  On the main menu, choose File | Import Settings.
-3.  In the **Import File Location** dialog box that opens **Intellij/Lucario.jar** file.
-4.  In the Select Components to Import dialog box that opens specify only **Editor Colors** as settings to be imported, and click OK.
-
-## Sublime Text
-![Sublime Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/sublime_text.png)
-
-### Install using Package Control
-
-If you are using [Package Control](https://sublime.wbond.net/), you can easily
-install Lucario via **Package Control: Install Package**. The package theme is named as
-"Lucario Color Scheme" in the packages list. You should be able to select "Lucario Color Scheme"
-by browsing **Preferences -> Color Scheme -> Lucario Color Scheme -> Lucario**.
-
-See Lucario in [package control web page](https://sublime.wbond.net/packages/Lucario%20Color%20Scheme)
-
-### Manually install
-
-1. Use `git clone https://github.com/raphamorim/lucario.git` and then take the **Lucario.tmTheme**
-2.	Open Sublime text and click on **Preferences -> Browse Packages**
-3.	Then put the **Lucario.tmTheme** there
-4.	Now you should be able to select lucario theme by browsing **Preferences -> Color Scheme -> Lucario**
-
-## TextMate
-
-Not available yet.
-
-## Vim
-![Vim Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/vim.png)
-
-Put `lucario.vim` file in your `~/.vim/colors/` directory and add the following line to your vimrc file:
-
-    syntax enable
-    set number
-    colorscheme lucario
-
-
-OS X Hint: `vim /usr/share/vim/vimrc`
-
-## Xcode
-![xcode Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/xcode.png)
-
-1.  Use `git clone https://github.com/raphamorim/lucario.git` (or use [.zip download][zip] option)
-2.  Copy the `xcode/Lucario.dvtcolortheme` file to your **Xcode FontAndColorThemes** directory
-3. Reopen your Xcode and click on **Xcode -> preferences**
-4. Open **Fonts & Colors** tab and select lucario as your theme
-
-**Hint**: run this command to copy and paste `Lucario.dvtcolortheme` file to your **Xcode FontAndColorThemes** directory:
-
-```sh
-$ cp Lucario.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
-```
-
-## iTerm
-![iTerm Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/iterm.png)
-
-1.  Use `git clone https://github.com/raphamorim/lucario.git` (or use [.zip download][zip] option)
-2.  iTerm > Settings Tab
-3.  Go to "Profiles > Colors" tab
-4.  Click "Load Presets..." to import and select the **iterm/Lucario.itermcolors** file
-
-## Terminal.app
-![Terminal Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/terminal.png)
-
-1.  Use `git clone https://github.com/raphamorim/lucario.git` (or use [.zip download][zip] option)
-2.  Terminal > Settings Tab
-3.  Click "Gear" icon
-4.  Click Import and select the **terminal/Lucario.terminal** file
-5.  Click Default
-
-[zip]: https://github.com/raphamorim/lucario/archive/master.zip
-
-## XTerm
-![xterm Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/xterm.png)
-
-1.  Use `git clone https://github.com/raphamorim/lucario.git` (or use [.zip download][zip] option)
-2.  Copy the **xterm/.Xresources** file to your home directory
-3.  (optional for some cases) Add `xrdb -merge ~/.Xresources` to your init scripts (e.g. `.xinitrc`)
-
-## CSS
-![CSS Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/css.png)
-
-1.  Use `git clone https://github.com/raphamorim/lucario.git` (or use [.zip download][zip] option)
-2.  Copy the **CSS/lucario.css** file to your web directory
-3.  Include the stylesheet in your HTML by including the line ``<link rel="stylesheet" type="text/css" href="lucario.css">``
-4.  The default stylesheet with highlight code blocks rendered with the class **highlight**.
-
-## Termux
-![Termux Example](https://raw.githubusercontent.com/KdB13/lucario/lucario-termux/images/termux.png)
-
-1. Make sure that **Termux:Styling** add-on is installed.
-2. Copy the `lucario.colors` file to`~/.termux/colors`.
-2. Run the `colors.sh` script to apply.
 
 ## Color Palette
 
@@ -160,6 +30,134 @@ Selection    | `#19242f` | `25 36 47`    | `210° 30.6% 14.1%`
 Foreground   | `#f8f8f2` | `248 248 242` | `60° 30% 96%`
 Comment      | `#5c98cd` | `92 152 205`  | `208.1° 53.1% 58.2%`
 String       | `#E6DB74` | `230 219 116` | `54.2° 69.5% 67.8%`
+
+
+## Editors
+
+### [Atom](https://atom.io/)
+![Atom Example](/images/atom.png)
+
+1.	Go to **Atom -> Preferences...**
+2.	Then select the **Install** tab
+3.	Switch to the **Themes**
+4.	Type **Lucario** in the search box
+
+See Lucario in [atom.io page](https://atom.io/themes/lucario)
+
+### Jetbrains Editors
+
+(Available for [IntellijIDEA](https://www.jetbrains.com/idea/), [Pycharm](https://www.jetbrains.com/pycharm/), [Webstorm](https://www.jetbrains.com/webstorm/), [PHPStorm](https://www.jetbrains.com/phpstorm/) and [RubyMine](https://www.jetbrains.com/ruby/))
+
+![Jetbrains Example](/images/jetbrains.png)
+
+1.  Download **[Intellij/Lucario.jar](https://github.com/raphamorim/lucario/raw/master/jetbrains/Lucario.jar)**
+2.  Go to **File -> Import Settings**.
+3.  In the **Import File Location** dialog box select your downloaded **Intellij/Lucario.jar** file.
+4.  In the **Select Components to Import** dialog box select only **Editor Colors** as settings to be imported, and click OK.
+
+### [Sublime Text](http://www.sublimetext.com/3)
+![Sublime Example](/images/sublime_text.png)
+
+#### Install using Package Control
+
+If you are using [Package Control](https://sublime.wbond.net/), you can easily
+install Lucario via **Package Control: Install Package**. The package theme is named "[Lucario Color Scheme](https://sublime.wbond.net/packages/Lucario%20Color%20Scheme)" in the packages list.
+
+#### Install manually
+
+1.  Download **[Lucario.tmTheme](https://github.com/raphamorim/lucario/raw/master/Lucario.tmTheme)**
+2.	Open Sublime text and click on **Preferences -> Browse Packages**
+3.	Select your downloaded **Lucario.tmTheme** there
+
+#### Activating the theme
+You should be able to select lucario theme by browsing **Preferences -> Color Scheme -> Lucario**
+
+### [Visual Studio Code](https://code.visualstudio.com/)
+![VS Code Example](https://github.com/Ikuyadeu/Lucario-vscode/raw/master/images/vscode.png)
+
+1. Go to **View -> Command Palette** or press **Ctrl+Shift+P**
+2. Then enter **Install Extension**
+2. Search for **Lucario** and install the extension.
+3. Open Command Palette, enter **Preferences: Color Theme** and select **Lucario**
+
+Issues for the VS Code theme are tracked [here](https://github.com/Ikuyadeu/Lucario-vscode/issues).
+
+
+### [Vim](http://www.vim.org/)
+![Vim Example](/images/vim.png)
+
+1.  Download **[colors/lucario.vim](https://github.com/raphamorim/lucario/raw/master/colors/lucario.vim)**
+2.  Move the file to the `~/.vim/colors/` directory
+3.  Add the following lines to your vimrc file:
+    ```vim
+    syntax enable
+    set number
+    colorscheme lucario
+    ```
+
+OS X Hint: `vim /usr/share/vim/vimrc`
+
+### [Xcode](https://developer.apple.com/xcode/)
+![xcode Example](/images/xcode.png)
+
+1.  Download **[xcode/Lucario.dvtcolortheme](https://github.com/raphamorim/lucario/raw/master/xcode/Lucario.dvtcolortheme)**
+2.  Move the file to your **Xcode FontAndColorThemes** directory
+3. Reopen your Xcode and click on **Xcode -> preferences**
+4. Open **Fonts & Colors** tab and select lucario as your theme
+
+**Hint**: run this command to move the `Lucario.dvtcolortheme` file to your **Xcode FontAndColorThemes** directory:
+
+```sh
+$ mv Lucario.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
+```
+
+## Terminal Emulators
+
+### [iTerm](http://www.iterm2.com/)
+![iTerm Example](/images/iterm.png)
+
+1.  Download **[iterm/Lucario.itermcolors](https://github.com/raphamorim/lucario/raw/master/iterm/Lucario.itermcolors)**
+2.  Open **Settings** in iTerm
+3.  Go to **Profiles -> Colors** tab
+4.  Click **Load Presets...** to import and select the `Lucario.itermcolors` file
+
+### [Terminal.app](http://en.wikipedia.org/wiki/Terminal_%28OS_X%29)
+![Terminal Example](/images/terminal.png)
+
+1.  Download **[terminal/Lucario.terminal](https://github.com/raphamorim/lucario/raw/master/terminal/Lucario.terminal)**
+2.  Open **Settings** in Terminal
+3.  Click **"Gear" icon**
+4.  Click **Import** and select the `Lucario.terminal` file
+5.  Click **Default**
+
+### [Termux](https://termux.com/)
+![Termux Example](/images/termux.png)
+
+1.  Make sure that **Termux:Styling** add-on is installed.
+2.  Download **[termux/lucario.colors](https://github.com/raphamorim/lucario/raw/master/termux/lucario.xolors)**
+3. Move the `lucario.colors` file to`~/.termux/colors`.
+2. Run the `colors.sh` script to apply.
+
+### [XTerm](https://invisible-island.net/xterm/xterm.html)
+![xterm Example](/images/xterm.png)
+
+1.  Download **[xterm/.Xresources](https://github.com/raphamorim/lucario/raw/master/xterm/.Xresources)**
+2.  Either move the `.Xresources` file to your home directory or add the contents to your existing `~/.Xresources`
+3.  Run `xrdb -merge ~/.Xresources`
+4.  (optional) Add `xrdb -merge ~/.Xresources` to your init scripts (e.g. `.xinitrc`)
+
+## Others
+
+### CSS
+![CSS Example](/images/css.png)
+
+1.  Download **[CSS/lucario.css](https://github.com/raphamorim/lucario/raw/master/CSS/lucario.css)**
+2.  Move the **CSS/lucario.css** file to your web directory
+3.  Include the stylesheet in your HTML by including the line
+    ```html
+    <link rel="stylesheet" type="text/css" href="lucario.css">
+    ```
+4.  The default stylesheet with highlight code blocks is rendered with the class **highlight**.
 
 ## Contributing
 
@@ -176,4 +174,4 @@ So how about creating one? It's very simple! \o/
 
 **Credits**: Project inspired by [@zenorocha's](https://twitter.com/zenorocha) [Dracula Theme](https://github.com/zenorocha/dracula-theme).
 
-**License**: MIT ® [Raphael Amorim](https://github.com/raphamorim).
+**License**: MIT © [Raphael Amorim](https://github.com/raphamorim).
