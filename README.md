@@ -135,7 +135,7 @@ $ mv Lucario.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 ![Termux Example](/images/termux.png)
 
 1.  Make sure that **Termux:Styling** add-on is installed.
-2.  Download **[termux/lucario.colors](https://github.com/raphamorim/lucario/raw/master/termux/lucario.xolors)**
+2.  Download **[termux/lucario.colors](https://github.com/raphamorim/lucario/raw/master/termux/lucario.colors)**
 3. Move the `lucario.colors` file to`~/.termux/colors`.
 2. Run the `colors.sh` script to apply.
 
