@@ -11,6 +11,7 @@
   * [Visual Studio Code](#visual-studio-code)
   * [Xcode](#xcode)
 * Terminal Emulators
+  * [GNOME Terminal](#gnome-terminal)
   * [iTerm](#iterm)
   * [Terminal.app](#terminalapp)
   * [Termux](#termux)
@@ -113,6 +114,20 @@ $ mv Lucario.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 ```
 
 ## Terminal Emulators
+
+### [GNOME Terminal](https://wiki.gnome.org/Apps/Terminal)
+![GNOME Terminal Example](/images/gnome-terminal.png)
+
+Since it is not possible to add color themes to GNOME Terminal, the provided script will create a new Profile which uses custom colors.
+
+1.  Download **[gnome-terminal/lucario.sh](https://github.com/raphamorim/lucario/raw/master/gnome-terminal/lucario.sh)**
+2.  Run the script from within GNOME Terminal (`./lucario.sh`)
+3.  Right-click in the Terminal and select **Profiles -> Lucario**
+4.  In the main menu select **Edit -> Preferences**
+5.  Go to the **Profiles** tab and in the dropdown list for the default profile
+    select **Lucario**
+
+The script was created with [terminal.sexy](https://terminal.sexy).
 
 ### [iTerm](http://www.iterm2.com/)
 ![iTerm Example](/images/iterm.png)
