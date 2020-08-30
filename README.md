@@ -151,8 +151,9 @@ The script was created with [terminal.sexy](https://terminal.sexy).
 
 1.  Make sure that **Termux:Styling** add-on is installed.
 2.  Download **[termux/lucario.colors](https://github.com/raphamorim/lucario/raw/master/termux/lucario.colors)**
-3. Move the `lucario.colors` file to`~/.termux/colors`.
-2. Run the `colors.sh` script to apply.
+3. Replace the `lucario.colors` with `~/.termux/colors.properties`.
+4. Rename  `lucario.colors` to `colors.properties`.
+5. Restart **Termux** to apply.
 
 ## Xfce Terminal
 ![xfce4-terminal Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/xfce4-terminal.png)
