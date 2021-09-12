@@ -1,0 +1,27 @@
+{
+    "name": "Lucario",
+
+    "cursorColor": "#F8F8F2",
+    "selectionBackground": "#19242F",
+    
+    "background": "#2B3E50",
+    "foreground": "#F8F8F2",
+    
+    "black": "#4F4F4F",
+    "red": "#FF6C60",
+    "green": "#FBB036",
+    "yellow": "#FFFFB6"
+    "blue": "#5796ED",
+    "purple": "#FF73FD",
+    "cyan": "#8EE478",
+    "white": "#EEEEEE",
+    
+    "brightBlack": "#4F4F4F",
+    "brightRed": "#FA6960",
+    "brightGreen": "#FBB036",
+    "brightYellow": "#FEFFB9",
+    "brightBlue": "#6B9FED",
+    "brightPurple": "#FC6FFA",
+    "brightCyan": "#8EE478",
+    "brightWhite": "#FFFFFF"
+}
