@@ -175,7 +175,7 @@ The script was created with [terminal.sexy](https://terminal.sexy).
 
 1. Open `settings.json` from Windows Terminal.
 2. Find the `"schemes"` array within it.
-3. Now, copy the JSON object present in **[lucario.json](https://github.com/raphamorim/lucario/raw/master/windows-terminal/lucario.json)** to `"schemes"` array in `settings.json` file.
+3. Now, copy the JSON object present in **[lucario.json](https://github.com/raphamorim/lucario/blob/main/windows-terminal/lucario.json)** to `"schemes"` array in `settings.json` file.
 4. Apply the color scheme by setting `"colorScheme": "Lucario"` to your profile.
 
 ## Others
