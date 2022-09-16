@@ -53,7 +53,7 @@ See Lucario in [atom.io page](https://atom.io/themes/lucario)
 
 ![Jetbrains Example](/images/jetbrains.png)
 
-1.  Download **[Intellij/Lucario.jar](https://github.com/raphamorim/lucario/raw/master/jetbrains/Lucario.jar)**
+1.  Download **[Intellij/Lucario.jar](https://github.com/raphamorim/lucario/blob/main/jetbrains/Lucario.jar)**
 2.  Go to **File -> Import Settings**.
 3.  In the **Import File Location** dialog box select your downloaded **Intellij/Lucario.jar** file.
 4.  In the **Select Components to Import** dialog box select only **Editor Colors** as settings to be imported, and click OK.
