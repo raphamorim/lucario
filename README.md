@@ -21,6 +21,7 @@
   * [Windows Terminal](#windows-terminal)
 * Others
   * [CSS](#css)
+  * [Pygments](#pygments)
 * [Contributing](#contributing)
 * [About](#about)
 
@@ -41,10 +42,10 @@ String       | `#e6db74` | `230 219 116` | `54.2° 69.5% 67.8%`  | ![](images/e6
 ### [Atom](https://atom.io/)
 ![Atom Example](/images/atom.png)
 
-1.	Go to **Atom -> Preferences...**
-2.	Then select the **Install** tab
-3.	Switch to the **Themes**
-4.	Type **Lucario** in the search box
+1.  Go to **Atom -> Preferences...**
+2.  Then select the **Install** tab
+3.  Switch to the **Themes**
+4.  Type **Lucario** in the search box
 
 See Lucario in [atom.io page](https://atom.io/themes/lucario)
 
@@ -70,8 +71,8 @@ install Lucario via **Package Control: Install Package**. The package theme is n
 #### Install manually
 
 1.  Download **[Lucario.tmTheme](https://github.com/raphamorim/lucario/raw/main/Lucario.tmTheme)**
-2.	Open Sublime text and click on **Preferences -> Browse Packages**
-3.	Select your downloaded **Lucario.tmTheme** there
+2.  Open Sublime text and click on **Preferences -> Browse Packages**
+3.  Select your downloaded **Lucario.tmTheme** there
 
 #### Activating the theme
 You should be able to select lucario theme by browsing **Preferences -> Color Scheme -> Lucario**
@@ -203,6 +204,12 @@ The script was created with [terminal.sexy](https://terminal.sexy).
     <link rel="stylesheet" type="text/css" href="lucario.css">
     ```
 4.  The default stylesheet with highlight code blocks is rendered with the class **highlight**.
+
+### Pygments
+
+1.  Use `git clone https://github.com/raphamorim/lucario.git`
+2.  Copy the **pygments/lucario.py** file to pygments style directory, usually **/usr/local/lib/python/*X*.*X*/site-packages/pygments/styles/**
+3.  Run the following to use the formatter on the command line, `pygmentize -S lucario`
 
 ## Contributing
 
