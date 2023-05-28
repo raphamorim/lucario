@@ -11,6 +11,7 @@
   * [Visual Studio Code](#visual-studio-code)
   * [Xcode](#xcode)
 * Terminal Emulators
+  * [Rio terminal](#rio-terminal)
   * [GNOME Terminal](#gnome-terminal)
   * [iTerm](#iterm)
   * [Terminal.app](#terminalapp)
@@ -68,7 +69,7 @@ install Lucario via **Package Control: Install Package**. The package theme is n
 
 #### Install manually
 
-1.  Download **[Lucario.tmTheme](https://github.com/raphamorim/lucario/raw/master/Lucario.tmTheme)**
+1.  Download **[Lucario.tmTheme](https://github.com/raphamorim/lucario/raw/main/Lucario.tmTheme)**
 2.	Open Sublime text and click on **Preferences -> Browse Packages**
 3.	Select your downloaded **Lucario.tmTheme** there
 
@@ -76,7 +77,7 @@ install Lucario via **Package Control: Install Package**. The package theme is n
 You should be able to select lucario theme by browsing **Preferences -> Color Scheme -> Lucario**
 
 ### [Visual Studio Code](https://code.visualstudio.com/)
-![VS Code Example](https://github.com/Ikuyadeu/Lucario-vscode/raw/master/images/vscode.png)
+![VS Code Example](https://github.com/Ikuyadeu/Lucario-vscode/raw/main/images/vscode.png)
 
 1. Go to **View -> Command Palette** or press **Ctrl+Shift+P**
 2. Then enter **Install Extension**
@@ -89,7 +90,7 @@ Issues for the VS Code theme are tracked [here](https://github.com/Ikuyadeu/Luca
 ### [Vim](http://www.vim.org/)
 ![Vim Example](/images/vim.png)
 
-1.  Download **[colors/lucario.vim](https://github.com/raphamorim/lucario/raw/master/colors/lucario.vim)**
+1.  Download **[colors/lucario.vim](https://github.com/raphamorim/lucario/raw/main/colors/lucario.vim)**
 2.  Move the file to the `~/.vim/colors/` directory
 3.  Add the following lines to your vimrc file:
     ```vim
@@ -103,7 +104,7 @@ OS X Hint: `vim /usr/share/vim/vimrc`
 ### [Xcode](https://developer.apple.com/xcode/)
 ![xcode Example](/images/xcode.png)
 
-1.  Download **[xcode/Lucario.dvtcolortheme](https://github.com/raphamorim/lucario/raw/master/xcode/Lucario.dvtcolortheme)**
+1.  Download **[xcode/Lucario.dvtcolortheme](https://github.com/raphamorim/lucario/raw/main/xcode/Lucario.dvtcolortheme)**
 2.  Move the file to your **Xcode FontAndColorThemes** directory
 3. Reopen your Xcode and click on **Xcode -> preferences**
 4. Open **Fonts & Colors** tab and select lucario as your theme
@@ -116,12 +117,24 @@ $ mv Lucario.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 
 ## Terminal Emulators
 
+### [Rio Terminal](http://github.com/raphamorim/rio)
+![Rio Terminal Example](/images/rio.png)
+
+1.  Download **[rio/lucario.toml](https://github.com/raphamorim/lucario/raw/main/rio/lucario.toml)**
+2. Create a folder called `theme` inside Rio configuration folder path.
+3. Move `lucario.toml` file to inside `theme` folder.
+4. Change your Rio configuration main file to use the theme you want.
+    ```toml
+    [style]
+    theme = "lucario"
+    ```
+
 ### [GNOME Terminal](https://wiki.gnome.org/Apps/Terminal)
 ![GNOME Terminal Example](/images/gnome-terminal.png)
 
 Since it is not possible to add color themes to GNOME Terminal, the provided script will create a new Profile which uses custom colors.
 
-1.  Download **[gnome-terminal/lucario.sh](https://github.com/raphamorim/lucario/raw/master/gnome-terminal/lucario.sh)**
+1.  Download **[gnome-terminal/lucario.sh](https://github.com/raphamorim/lucario/raw/main/gnome-terminal/lucario.sh)**
 2.  Run the script from within GNOME Terminal (`./lucario.sh`)
 3.  Right-click in the Terminal and select **Profiles -> Lucario**
 4.  In the main menu select **Edit -> Preferences**
@@ -133,7 +146,7 @@ The script was created with [terminal.sexy](https://terminal.sexy).
 ### [iTerm](http://www.iterm2.com/)
 ![iTerm Example](/images/iterm.png)
 
-1.  Download **[iterm/Lucario.itermcolors](https://github.com/raphamorim/lucario/raw/master/iterm/Lucario.itermcolors)**
+1.  Download **[iterm/Lucario.itermcolors](https://github.com/raphamorim/lucario/raw/main/iterm/Lucario.itermcolors)**
 2.  Open **Settings** in iTerm
 3.  Go to **Profiles -> Colors** tab
 4.  Click **Load Presets...** to import and select the `Lucario.itermcolors` file
@@ -141,7 +154,7 @@ The script was created with [terminal.sexy](https://terminal.sexy).
 ### [Terminal.app](http://en.wikipedia.org/wiki/Terminal_%28OS_X%29)
 ![Terminal Example](/images/terminal.png)
 
-1.  Download **[terminal/Lucario.terminal](https://github.com/raphamorim/lucario/raw/master/terminal/Lucario.terminal)**
+1.  Download **[terminal/Lucario.terminal](https://github.com/raphamorim/lucario/raw/main/terminal/Lucario.terminal)**
 2.  Open **Settings** in Terminal
 3.  Click **"Gear" icon**
 4.  Click **Import** and select the `Lucario.terminal` file
@@ -151,21 +164,21 @@ The script was created with [terminal.sexy](https://terminal.sexy).
 ![Termux Example](/images/termux.png)
 
 1.  Make sure that **Termux:Styling** add-on is installed.
-2.  Download **[termux/lucario.colors](https://github.com/raphamorim/lucario/raw/master/termux/lucario.colors)**
+2.  Download **[termux/lucario.colors](https://github.com/raphamorim/lucario/raw/main/termux/lucario.colors)**
 3. Replace the `lucario.colors` with `~/.termux/colors.properties`.
 4. Rename  `lucario.colors` to `colors.properties`.
 5. Restart **Termux** to apply.
 
 ## Xfce Terminal
-![xfce4-terminal Example](https://raw.githubusercontent.com/raphamorim/lucario/master/images/xfce4-terminal.png)
+![xfce4-terminal Example](https://raw.githubusercontent.com/raphamorim/lucario/main/images/xfce4-terminal.png)
 
-1.  Save [**xfce4-terminal/lucario.theme**](https://raw.githubusercontent.com/raphamorim/lucario/master/xfce4-terminal/lucario.theme) to `$HOME/.local/share/xfce4/terminal/colorschemes/` (You might need to create this folder first.)
+1.  Save [**xfce4-terminal/lucario.theme**](https://raw.githubusercontent.com/raphamorim/lucario/main/xfce4-terminal/lucario.theme) to `$HOME/.local/share/xfce4/terminal/colorschemes/` (You might need to create this folder first.)
 2.  In Xfce Terminal open **Preferences**, go to the **Colors** tab and under **Presets** select **Lucario**.
 
 ### [XTerm](https://invisible-island.net/xterm/xterm.html)
 ![xterm Example](/images/xterm.png)
 
-1.  Download **[xterm/.Xresources](https://github.com/raphamorim/lucario/raw/master/xterm/.Xresources)**
+1.  Download **[xterm/.Xresources](https://github.com/raphamorim/lucario/raw/main/xterm/.Xresources)**
 2.  Either move the `.Xresources` file to your home directory or add the contents to your existing `~/.Xresources`
 3.  Run `xrdb -merge ~/.Xresources`
 4.  (optional) Add `xrdb -merge ~/.Xresources` to your init scripts (e.g. `.xinitrc`)
@@ -183,7 +196,7 @@ The script was created with [terminal.sexy](https://terminal.sexy).
 ### CSS
 ![CSS Example](/images/css.png)
 
-1.  Download **[CSS/lucario.css](https://github.com/raphamorim/lucario/raw/master/CSS/lucario.css)**
+1.  Download **[CSS/lucario.css](https://github.com/raphamorim/lucario/raw/main/CSS/lucario.css)**
 2.  Move the **CSS/lucario.css** file to your web directory
 3.  Include the stylesheet in your HTML by including the line
     ```html
