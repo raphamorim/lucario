@@ -78,15 +78,28 @@ install Lucario via **Package Control: Install Package**. The package theme is n
 You should be able to select lucario theme by browsing **Preferences -> Color Scheme -> Lucario**
 
 ### [Visual Studio Code](https://code.visualstudio.com/)
-![VS Code Example](https://github.com/Ikuyadeu/Lucario-vscode/raw/main/images/vscode.png)
 
-1. Go to **View -> Command Palette** or press **Ctrl+Shift+P**
-2. Then enter **Install Extension**
-2. Search for **Lucario** and install the extension.
-3. Open Command Palette, enter **Preferences: Color Theme** and select **Lucario**
+There are two alternative implementations of Lucario for VS Code.
 
-Issues for the VS Code theme are tracked [here](https://github.com/Ikuyadeu/Lucario-vscode/issues).
+![VS Code theme by Ikyuadeu example](https://raw.githubusercontent.com/Ikuyadeu/Lucario-vscode/master/images/vscode.png)
 
+To install the first one: launch VS Code Quick Open (Ctrl+P), paste the following command and press enter.
+
+```txt
+ext install Ikuyadeu.lucario
+```
+
+Issues for this version are tracked [here](https://github.com/Ikuyadeu/Lucario-vscode/issues).
+
+![VS Code theme by victor-gp example](https://raw.githubusercontent.com/victor-gp/lucario-vscode-theme/main/assets/preview.png)
+
+To install the second one: launch VS Code Quick Open (Ctrl+P), paste the following command and press enter.
+
+```txt
+ext install victor-gp.lucario-theme
+```
+
+Issues for this version are tracked [here](https://github.com/victor-gp/lucario-vscode-theme/issues).
 
 ### [Vim](http://www.vim.org/)
 ![Vim Example](/images/vim.png)
