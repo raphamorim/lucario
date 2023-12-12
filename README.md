@@ -19,6 +19,7 @@
   * [Xfce Terminal](#xfce-terminal)
   * [XTerm](#xterm)
   * [Windows Terminal](#windows-terminal)
+  * [Alacritty](#alacritty)
 * Others
   * [CSS](#css)
   * [Pygments](#pygments)
@@ -191,6 +192,11 @@ The script was created with [terminal.sexy](https://terminal.sexy).
 2. Find the `"schemes"` array within it.
 3. Now, copy the JSON object present in **[lucario.json](https://github.com/raphamorim/lucario/blob/main/windows-terminal/lucario.json)** to `"schemes"` array in `settings.json` file.
 4. Apply the color scheme by setting `"colorScheme": "Lucario"` to your profile.
+
+### [Alacritty](https://alacritty.org/)
+![alacritty Example](/images/alacritty.png)
+
+1. Copy and paste **[alacritty/alacritty.yml](https://github.com/raphamorim/lucario/blob/main/alacritty/alacritty.yml)** into your alacritty config at `$HOME/.config/alacritty/alacritty.yml`
 
 ## Others
 
