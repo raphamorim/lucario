@@ -79,27 +79,21 @@ You should be able to select lucario theme by browsing **Preferences -> Color Sc
 
 ### [Visual Studio Code](https://code.visualstudio.com/)
 
-There are two alternative implementations of Lucario for VS Code.
+There are two implementations of Lucario for VS Code. The first one by Ikuyadeu (issues tracked [here](https://github.com/Ikuyadeu/Lucario-vscode/issues)):
 
 ![VS Code theme by Ikyuadeu example](https://raw.githubusercontent.com/Ikuyadeu/Lucario-vscode/master/images/vscode.png)
 
-To install the first one: launch VS Code Quick Open (Ctrl+P), paste the following command and press enter.
-
-```txt
-ext install Ikuyadeu.lucario
-```
-
-Issues for this version are tracked [here](https://github.com/Ikuyadeu/Lucario-vscode/issues).
+The second one by victor-gp (issues tracked [here](https://github.com/victor-gp/lucario-vscode-theme/issues)):
 
 ![VS Code theme by victor-gp example](https://raw.githubusercontent.com/victor-gp/lucario-vscode-theme/main/assets/preview.png)
 
-To install the second one: launch VS Code Quick Open (Ctrl+P), paste the following command and press enter.
+To install one of them: launch VS Code Quick Open (Ctrl+P), paste the corresponding command and press enter.
 
 ```txt
+ext install Ikuyadeu.lucario
+  OR
 ext install victor-gp.lucario-theme
 ```
-
-Issues for this version are tracked [here](https://github.com/victor-gp/lucario-vscode-theme/issues).
 
 ### [Vim](http://www.vim.org/)
 ![Vim Example](/images/vim.png)
