@@ -130,8 +130,8 @@ $ mv Lucario.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 ![Rio Terminal Example](/images/rio.png)
 
 1.  Download **[rio/lucario.toml](https://github.com/raphamorim/lucario/raw/main/rio/lucario.toml)**
-2. Create a folder called `theme` inside Rio configuration folder path.
-3. Move `lucario.toml` file to inside `theme` folder.
+2. Create a folder called `themes` inside Rio configuration folder path.
+3. Move `lucario.toml` file to inside `themes` folder.
 4. Change your Rio configuration main file to use the theme you want.
     ```toml
     [style]
