@@ -203,6 +203,18 @@ The script was created with [terminal.sexy](https://terminal.sexy).
 ### [Alacritty](https://alacritty.org/)
 ![alacritty Example](/images/alacritty.png)
 
+The most up-to-date versions of Alacritty use the TOML format for configuration. For configuration with YAML (in previous versions) follow the additional steps.
+
+**TOML**
+1. Copy and paste **[alacritty/lucario.toml](https://github.com/raphamorim/lucario/blob/main/alacritty/lucario.toml)** into your alacritty config at `$HOME/.config/alacritty/lucario.toml`
+2. Import the configuration in your alacritty.toml file
+    ```toml
+    import = [
+        "~/.config/alacritty/lucario.toml"
+    ]
+    ```
+
+**YAML**
 1. Copy and paste **[alacritty/alacritty.yml](https://github.com/raphamorim/lucario/blob/main/alacritty/alacritty.yml)** into your alacritty config at `$HOME/.config/alacritty/alacritty.yml`
 
 ## Others
