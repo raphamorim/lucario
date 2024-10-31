@@ -206,6 +206,18 @@ The script was created with [terminal.sexy](https://terminal.sexy).
 
 The most up-to-date versions of Alacritty use the TOML format for configuration. For configuration with YAML (in previous versions) follow the additional steps.
 
+**TOML**
+1. Copy and paste **[alacritty/lucario.toml](https://github.com/raphamorim/lucario/blob/main/alacritty/lucario.toml)** into your alacritty config at `$HOME/.config/alacritty/lucario.toml`
+2. Import the configuration in your alacritty.toml file
+    ```toml
+    import = [
+        "~/.config/alacritty/lucario.toml"
+    ]
+    ```
+
+**YAML**
+1. Copy and paste **[alacritty/alacritty.yml](https://github.com/raphamorim/lucario/blob/main/alacritty/alacritty.yml)** into your alacritty config at `$HOME/.config/alacritty/alacritty.yml`
+
 ### [Mintty](https://mintty.github.io/)
 ![Mintty Example](/images/mintty.png)
 
@@ -219,18 +231,6 @@ The most up-to-date versions of Alacritty use the TOML format for configuration.
 3. Place the downloaded ```lucario``` on the directory ```~/.mintty/themes```
 4. Append a new line containing ```ThemeFile=lucario``` to the file ```~/.minttyrc```
 5. Restart **Mintty** to apply
-
-**TOML**
-1. Copy and paste **[alacritty/lucario.toml](https://github.com/raphamorim/lucario/blob/main/alacritty/lucario.toml)** into your alacritty config at `$HOME/.config/alacritty/lucario.toml`
-2. Import the configuration in your alacritty.toml file
-    ```toml
-    import = [
-        "~/.config/alacritty/lucario.toml"
-    ]
-    ```
-
-**YAML**
-1. Copy and paste **[alacritty/alacritty.yml](https://github.com/raphamorim/lucario/blob/main/alacritty/alacritty.yml)** into your alacritty config at `$HOME/.config/alacritty/alacritty.yml`
 
 ## Others
 
