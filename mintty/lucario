@@ -1,0 +1,23 @@
+# source: https://github.com/raphamorim/lucario
+
+BackgroundColour=#2b3e50
+ForegroundColour=#f8f8f2
+CursorColour=#e3bf21
+
+Black=#4f4f4f
+Red=#ff6c60
+Green=#fbb036
+Yellow=#ffffb6
+Blue=#5796ed
+Magenta=#ff73fd
+Cyan=#8ee478
+White=#eeeeee
+
+BoldBlack=#4f4f4f
+BoldRed=#fa6960
+BoldGreen=#fbb036
+BoldYellow=#feffb9
+BoldBlue=#6b9fed
+BoldMagenta=#fc6ffa
+BoldCyan=#8ee478
+BoldWhite=#ffffff

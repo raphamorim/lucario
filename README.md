@@ -20,6 +20,7 @@
   * [XTerm](#xterm)
   * [Windows Terminal](#windows-terminal)
   * [Alacritty](#alacritty)
+  * [Mintty](#mintty)
 * Others
   * [CSS](#css)
   * [Pygments](#pygments)
@@ -216,6 +217,20 @@ The most up-to-date versions of Alacritty use the TOML format for configuration.
 
 **YAML**
 1. Copy and paste **[alacritty/alacritty.yml](https://github.com/raphamorim/lucario/blob/main/alacritty/alacritty.yml)** into your alacritty config at `$HOME/.config/alacritty/alacritty.yml`
+
+### [Mintty](https://mintty.github.io/)
+![Mintty Example](/images/mintty.png)
+
+1. Download **[mintty/lucario](https://github.com/raphamorim/lucario/raw/main/mintty/lucario)**
+2. Create the directory ```~/.mintty/themes``` in case it does not exist
+
+> [!NOTE]
+> 
+> The physical directory pointed by ```~``` depends on your environment: ```C:\Users\<username>``` on Git Bash, ```C:\cygwin64\home\<username>``` on Cygwin, or ```C:\msys64\home\<username>``` on MSYS2.
+
+3. Place the downloaded ```lucario``` on the directory ```~/.mintty/themes```
+4. Append a new line containing ```ThemeFile=lucario``` to the file ```~/.minttyrc```
+5. Restart **Mintty** to apply
 
 ## Others
 
