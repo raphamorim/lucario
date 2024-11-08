@@ -5,6 +5,7 @@
 * [Color Palette](#color-palette)
 * Editors
   * [Atom](#atom)
+  * [Helix](#helix)
   * [Jetbrains Editors](#jetbrains-editors)
   * [Sublime Text](#sublime-text)
   * [Vim](#vim)
@@ -50,6 +51,12 @@ String       | `#e6db74` | `230 219 116` | `54.2° 69.5% 67.8%`  | ![](images/e6
 4.  Type **Lucario** in the search box
 
 See Lucario in [atom.io page](https://atom.io/themes/lucario)
+
+### [Helix](https://helix-editor.com)
+![Helix Example](/images/helix.png)
+
+1. Copy `helix/lucario.toml` to `$XDG_HOME/.config/helix/themes`
+2. Issue the `:theme lucario` command or add `theme = "lucario"` to your `config.toml`
 
 ### Jetbrains Editors
 
